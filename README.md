@@ -111,7 +111,7 @@ MetaTrader 5 API  •  Agentic AI (OpenClaw/Ollama)  •  SAP Integration  •  
 [![Website](https://img.shields.io/badge/Synamatics-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://synamatics.in)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/vishnurajiam)
 
-📍 **Based:** India | Canada | Australia
+📍 **Based:** Global Presence: 🇮🇳 India • 🇨🇦 Canada • 🇦🇺 Australia • 🇧🇭 Bahrain
 
 ---
 
