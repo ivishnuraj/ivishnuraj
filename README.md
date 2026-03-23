@@ -1,5 +1,28 @@
 # Vishnu Raj | CEO & Senior Software Architect 👋
 
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivishnuraj&show_icons=true&theme=radical&rank_icon=github&border_radius=10)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivishnuraj&layout=compact&theme=radical&hide_border=false)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnurajiam)
+[![Website](https://img.shields.io/badge/Synamatics-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://synamatics.in)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:synamatics@gmail.com)
+
+
 I am a **Software Architect and Engineering Leader** with over a decade of experience building high-availability systems and FinTech infrastructure. As the CEO of **Synamatics Code Studio**, I lead teams in developing high-performance trading tools, agentic AI workflows, and enterprise-grade SaaS solutions.
 
 ### 🎯 High-Impact Engineering
